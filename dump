@@ -1,0 +1,1637 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="/images/icons/favicons/fav_logo.ico?6" />
+
+<link rel="apple-touch-icon" href="/images/safari_60.png?1">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/safari_76.png?1">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/safari_120.png?1">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/safari_152.png?1">
+
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<meta name="description" content="" />
+
+
+<title>Поиск людей по запросу Дарья</title>
+
+<noscript><meta http-equiv="refresh" content="0; URL=/badbrowser.php"></noscript>
+
+<link rel="stylesheet" type="text/css" href="/css/al/common.css?28273588866" /><link rel="stylesheet" type="text/css" href="/css/al/fonts_cnt.css?1318650823" />
+
+<script type="text/javascript">
+var vk = {
+  ads_rotate_interval: 120000,
+  al: parseInt('3') || 4,
+  id: 14260901,
+  intnat: '' ? true : false,
+  host: 'vk.com',
+  lang: 0,
+  rtl: parseInt('') || 0,
+  version: 5280029891161,
+  stDomains: 0,
+  stDomain: '',
+  stExcludedMasks: ["loader_nav","lang"],
+  zero: false,
+  contlen: 72082,
+  loginscheme: 'https',
+  ip_h: '879379a86d1708cc3f',
+  navPrefix: '/',
+  dt: parseInt('0') || 0,
+  fs: parseInt('13') || 13,
+  ts: 1529291890,
+  tz: 10800,
+  pd: 0,
+  css_dir: '',
+  vcost: 7,
+  time: [2018, 6, 18, 6, 18, 10],
+  sampleUser: -1, spentLastSendTS: new Date().getTime(),
+  a11y: 0,
+  statusExportHash: 'd15b58cb29e632927a',
+  audioAdsConfig: {"enabled":true,"sections":["my","user_playlists","group_playlists","my_playlists","recent","audio_feed","recs","recs_audio","recs_album","search","global_search","group_list","user_list","user_wall","group_wall","feed","other"],"day_limit_reached":false},
+  longViewTestGroup: null,
+  cma: 1,
+  postNoEncode: 0,
+  lpConfig: {
+    enabled: 1,
+    key: 'ee1b9a5263ba8191a3169a64629fe8c288420ab0',
+    ts: 1778870101,
+    url: 'https://imv4.vk.com/im0901',
+    lpstat: 0
+  },
+
+  pr_tpl: "<div class=\"pr %cls%\" id=\"%id%\"><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><\/div>",
+
+  audioInlinePlayerTpl: "<div class=\"audio_inline_player _audio_inline_player no_select\">\n  <div class=\"audio_inline_player_right\">\n    <div class=\"audio_inline_player_volume\"><\/div>\n  <\/div>\n  <div class=\"audio_inline_player_left\">\n    <div class=\"audio_inline_player_progress\"><\/div>\n  <\/div>\n<\/div>",
+
+  tnsPixelType: ''
+};
+
+window.locDomain = vk.host.match(/[a-zA-Z]+\.[a-zA-Z]+\.?$/)[0];
+var _ua = navigator.userAgent.toLowerCase();
+if (/opera/i.test(_ua) || !/msie 6/i.test(_ua) || document.domain != locDomain) document.domain = locDomain;
+var ___htest = (location.toString().match(/#(.*)/) || {})[1] || '', ___to;
+___htest = ___htest.split('#').pop();
+if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
+  if (vk.al != 3 || vk.navPrefix != '!') {
+    ___to = ___htest.replace(/^(\/|!)/, '');
+    if (___to.match(/^([^\?]*\.php|login|mobile)([^a-z0-9\.]|$)/)) ___to = '';
+    location.replace(location.protocol + '//' + location.host + '/' + ___to);
+  }
+}
+
+var StaticFiles = {
+  'cmodules/web/common_web.js' : {v: 3},
+  'common.css' : {v: 28273588866},'fonts_cnt.css' : {v: 1318650823}
+  ,'lang0_0.js': {v: 25488198},'search.css':{v:24160649776},'search.js':{v:1964893397},'ui_controls.css':{v:11844720078},'ui_controls.js':{v:2247765440},'selects.js':{v:2835310113},'ui_common.css':{v:13438818444},'ui_common.js':{v:1617946438},'fifa2018.js':{v:1},'time_spent.js':{v:732637085},'mrtarg.js':{v:1146267795},'mrtarg.css':{v:3142794554},'cmodules/web/page_layout.js':{v:1172409392},'audioplayer.js':{v:5900725812},'cmodules/web/likes.js':{v:1},'notifier.js':{v:76418868734},'notifier.css':{v:22164784785}
+}
+var abp;
+</script>
+
+<link type="text/css" rel="stylesheet" href="/css/al/search.css?24160649776"></link><link type="text/css" rel="stylesheet" href="/css/ui_controls.css?11844720078"></link><link type="text/css" rel="stylesheet" href="/css/al/ui_common.css?13438818444"></link><link type="text/css" rel="stylesheet" href="/css/al/mrtarg.css?3142794554"></link><link type="text/css" rel="stylesheet" href="/css/al/notifier.css?22164784785"></link><script type="text/javascript" src="/js/loader_nav5280029891161_0.js"></script><script type="text/javascript" src="/js/cmodules/web/common_web.js?3_72640107546"></script><script type="text/javascript" src="/js/lang0_0.js?25488198"></script><script type="text/javascript" src="/js/lib/px.js?ch=1"></script><script type="text/javascript" src="/js/lib/px.js?ch=2"></script><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vk.com/search?c[age_from]=18&c[age_to]=18&c[city]=23&c[country]=1&c[per_page]=40&c[q]=%D0%94%D0%B0%D1%80%D1%8C%D1%8F&c[section]=people" /><link rel="alternate" href="android-app://com.vkontakte.android/vkontakte/m.vk.com/search?c[age_from]=18&c[age_to]=18&c[city]=23&c[country]=1&c[per_page]=40&c[q]=%D0%94%D0%B0%D1%80%D1%8C%D1%8F&c[section]=people" /><script type="text/javascript" src="/js/al/search.js?1964893397"></script><script type="text/javascript" src="/js/lib/ui_controls.js?2247765440"></script><script type="text/javascript" src="/js/lib/selects.js?2835310113"></script><script type="text/javascript" src="/js/al/ui_common.js?1617946438"></script><script type="text/javascript" src="/js/cmodules/web/fifa2018.js?1"></script><script type="text/javascript" src="/js/al/time_spent.js?732637085"></script><script type="text/javascript" src="/js/al/mrtarg.js?1146267795"></script><script type="text/javascript" src="/js/cmodules/web/page_layout.js?1172409392"></script><script type="text/javascript" src="/js/cmodules/web/audioplayer.js?5900725812"></script><script type="text/javascript" src="/js/cmodules/web/likes.js?1"></script><script type="text/javascript" src="/js/cmodules/web/notifier.js?76418868734"></script>
+
+</head>
+
+<body onresize="onBodyResize()" class="firefox ">
+  <div id="system_msg" class="fixed"></div>
+  <div id="utils"></div>
+
+  <div id="layer_bg" class="fixed"></div><div id="layer_wrap" class="scroll_fix_wrap fixed layer_wrap"><div id="layer"></div></div>
+  <div id="box_layer_bg" class="fixed"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed"><div id="box_layer"><div id="box_loader"><div class="pr pr_baw pr_medium" id="box_loader_pr"><div class="pr_bt"></div><div class="pr_bt"></div><div class="pr_bt"></div></div><div class="back"></div></div></div></div>
+
+  <div id="stl_left"></div><div id="stl_side"></div>
+
+  <script type="text/javascript">window.domStarted && domStarted();</script>
+
+  <div class="scroll_fix_wrap _page_wrap" id="page_wrap"><div><div class="scroll_fix">
+  
+
+  <div id="page_header_cont" class="page_header_cont">
+    <div class="back"></div>
+    <div id="page_header_wrap" class="page_header_wrap">
+      <a class="top_back_link" href="" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { showBackLink(); return false; }" onmousedown="tnActive(this)"></a>
+      <div id="page_header" class="p_head p_head_l0" style="width: 960px">
+        <div class="content">
+          <div id="top_nav" class="head_nav">
+  <div class="head_nav_item fl_l"><a class="top_home_link fl_l " href="/feed" aria-label="На главную" accesskey="1" ><div class="top_home_logo"></div></a></div>
+  <div class="head_nav_item fl_l"><div id="ts_wrap" class="ts_wrap" onmouseover="TopSearch.initFriendsList();">
+  <input name="disable-autofill" style="display: none;" />
+  <input type="text" onmousedown="event.cancelBubble = true;" ontouchstart="event.cancelBubble = true;" class="text ts_input" id="ts_input" autocomplete="off" name="disable-autofill" placeholder="Поиск" aria-label="Поиск" />
+</div></div>
+  <div class="head_nav_item fl_l head_nav_btns"><a id="top_notify_btn" class="top_nav_btn" href="/feed?section=notifications" onmouseover="TopNotifier.preload()" onmousedown="return (checkKeyboardEvent(event) ? false : TopNotifier.show(event));" onclick="return (checkEvent(event) ? true : (checkKeyboardEvent(event) ? TopNotifier.show(event) : false));" aria-haspopup="true" accesskey="2">
+  <span class="blind_label">Уведомления</span>
+  <div class="top_nav_btn_icon"></div>
+  <div id="top_notify_count" class="top_notify_count"></div>
+</a><span id="top_audio_layer_place"></span><div id="top_audio_btn_group" class="top_nav_btn_audio_group" style="display: none;">
+  <a id="top_audio" class="top_nav_btn _top_nav_audio_btn" href="/music" onmouseover="AudioLayer.prepare()" onmousedown="" onclick="return checkEvent(event);" aria-label="Аудиоплеер" aria-haspopup="true" accesskey="3">
+    <span class="blind_label">Аудиоплеер</span>
+    <div class="top_nav_btn_icon"></div>
+  </a><div class="top_audio_play" id="top_audio_play">
+  <button class="top_audio_play__button" aria-label="" onClick="getAudioPlayer().instantPlay(this, event, '93d9bac5bdaac41526')"></button>
+</div>
+</div></div>
+  <div class="head_nav_item fl_r"><a id="top_profile_link" class="top_nav_link top_profile_link" href="/roland_x" onclick="return (checkKeyboardEvent(event) ? TopMenu.clicked : checkEvent)(event);" aria-label="Настройки страницы" aria-haspopup="true" accesskey="4">
+  <span class="blind_label">Настройки страницы</span>
+  <div class="top_profile_name">Роман</div><img class="top_profile_img" src="https://pp.userapi.com/c824202/v824202614/edb51/HWZNUxtP3NA.jpg?ava=1" alt="Роман" /><div class="top_profile_arrow"></div>
+</a><div id="top_profile_menu" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;">
+  <a class="top_profile_mrow" id="top_myprofile_link" href="/roland_x" onclick="return TopMenu.select(this, event);" style="">Моя страница</a>
+  <div class="top_profile_sep" style=""></div>
+  <a class="top_profile_mrow" id="top_edit_link" href="/edit" onclick="return TopMenu.select(this, event);" style="">Редактировать</a>
+  <a class="top_profile_mrow" id="top_settings_link" href="/settings" onclick="return TopMenu.select(this, event);" style="">Настройки</a>
+  <a class="top_profile_mrow" id="top_support_link" href="/support?act=home" onclick="return TopMenu.select(this, event);">Помощь</a>
+  <div class="top_profile_sep" style=""></div>
+  
+  <a class="top_profile_mrow" id="top_logout_link" href="https://login.vk.com/?act=logout&hash=ca9823a183d6240f9b&reason=tn&_origin=https://vk.com" onclick="if (checkEvent(event) === false) { window.AudioPlayer && AudioPlayer.clearAllCacheKeys(); window.Notifier && Notifier.lcSend('logged_off'); location.href = this.href; return cancelEvent(event); }">Выйти</a>
+</div></div>
+  <div class="head_nav_item_player"><div class="top_audio_player" id="top_audio_player">
+  <button class="top_audio_player_btn top_audio_player_prev" accesskey="j"><div class="blind_label">Предыдущая аудиозапись</div><div class="top_audio_player_btn_icon"></div></button>
+  <button class="top_audio_player_btn top_audio_player_play _top_audio_player_play" accesskey="k"><div class="blind_label _top_audio_player_play_blind_label">Предыдущая аудиозапись</div><div class="top_audio_player_btn_icon"></div></button>
+  <button class="top_audio_player_btn top_audio_player_next" accesskey="l"><div class="blind_label">Следующая аудиозапись</div><div class="top_audio_player_btn_icon"></div></button>
+  <div class="top_audio_player_title_wrap"><div class="top_audio_player_title"></div></div>
+</div></div>
+</div>
+<div id="ts_cont_wrap" class="ts_cont_wrap" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="page_layout" style="width: 960px;">
+    <div id="side_bar" class="side_bar fl_l " style="">
+      <div id="side_bar_inner" class="side_bar_inner">
+        <nav>
+  <ol>
+    <li id="l_pr" class=""><a href="/roland_x" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Моя Страница</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_nwsf" class=""><a href="/feed" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Новости</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_msg" class=""><a href="/im" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r"><span class="inl_bl left_count">1</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Сообщения</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_fr" class=""><a href="/friends" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <object type="internal/link"><a href="/friends?section=requests" onclick="nav.link && nav.link('/friends?section=requests', event); cancelEvent(event);" class="left_count_wrap fl_r left_void left_count_wrap_hovered"><span class="inl_bl left_count_sign">0</span></a></object>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Друзья</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_gr" class=""><a href="/groups" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r"><span class="inl_bl left_count">47</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Группы</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_ph" class=""><a href="/albums14260901" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Фотографии</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_aud" class=""><a href="/audios14260901" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Музыка</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_vid" class=""><a href="/video" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Видео</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_ap" class=""><a href="/apps" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <object type="internal/link"><a href="/apps?tab=notifications" onclick="nav.link && nav.link('/apps?tab=notifications', event); cancelEvent(event);" class="left_count_wrap fl_r left_count_wrap_hovered"><span class="inl_bl left_count">24</span></a></object>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Игры</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><div class="more_div l_main"></div><li id="l_mk" class=""><a href="/market?only_friends=1" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r"><span class="inl_bl left_count">8</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Товары</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_fav" class=""><a href="/fave" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Закладки</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_doc" class=""><a href="/docs" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Документы</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_ads" class=""><a href="/ads?act=office&last=1" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Реклама</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_apm" class=""><a href="/apps?act=manage" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Управление</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><div class="more_div"></div><li id="l_app2020870" class="genre16"><a href="/app2020870_14260901" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav', ref: 1}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Уолл Стрит</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(2)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_app2462" class="genre_app"><a href="/app2462_14260901" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav', ref: 1}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Радио</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(2)">
+  <div class="left_settings_inner"></div>
+</div>
+</li>
+  </ol>
+</nav>
+<div id="left_blocks"></div><div id="ads_left" class="ads_left_empty"></div><div class="left_menu_nav_wrap"><a class="left_menu_nav" href="/blog">Блог</a> <a class="left_menu_nav" href="/dev">Разработчикам</a> <a class="left_menu_nav" href="/ads">Реклама</a> <div class="ui_actions_menu_wrap _ui_menu_wrap " onmouseover="uiActionsMenu.show(this, event, {autopos: true, dy: 6});" onmouseout="uiActionsMenu.hide(this);">
+  <div class="ui_actions_menu_icons"  tabindex="0" aria-label="Действия" role="button" onclick="uiActionsMenu.keyToggle(this, event);"><span class="blind_label">Действия</span><a class="left_menu_nav left_menu_more" id="left_menu_more">Ещё</a></div>
+  <div class="ui_actions_menu _ui_menu" ><a class="ui_actions_menu_item" href="/about">О компании</a><a class="ui_actions_menu_item" href="/jobs">Вакансии</a><a class="ui_actions_menu_item" href="/legal">Правовая информация</a><a class="ui_actions_menu_item" onclick="showBox('lang.php', {act: 'lang_dialog'}, {params: {bodyStyle: 'padding: 0'}, noreload: true})" tabindex="0" role="link">Язык: русский</a></div>
+</div></div>
+      </div>
+    </div>
+
+    <div id="page_body" class="fl_r " style="width: 795px;">
+      <div id="header_wrap2">
+        <div id="header_wrap1">
+          <div id="header" style="display: none">
+            <h1 id="title"></h1>
+          </div>
+        </div>
+      </div>
+      <div id="wrap_between"></div>
+      <div id="wrap3"><div id="wrap2">
+  <div id="wrap1">
+    <div id="content"><div class="wide_column_left">
+  <div class="narrow_column_wrap">
+    <div class="narrow_column" id="narrow_column">
+      <div class="page_block ui_rmenu ui_rmenu_pr _ui_rmenu_auto_expand" id="search_menu" role="list">
+  <a id="ui_rmenu_auto" href="/search?c[section]=auto" class="ui_rmenu_item _ui_item_auto search_menu_auto unshown" onclick="return searcher.switchSection('auto', {updateStats: cur.section === 'auto', tab: 1}, event);">
+  <span>Все</span>
+</a><a id="ui_rmenu_people" href="/search?c[section]=people" class="ui_rmenu_item _ui_item_people ui_rmenu_item_sel search_menu_people" onclick="return searcher.switchSection('people', {updateStats: cur.section === 'auto', tab: 1}, event);">
+  <span>Люди</span>
+</a><a id="ui_rmenu_statuses" href="/search?c[section]=statuses" class="ui_rmenu_item _ui_item_statuses search_menu_statuses" onclick="return searcher.switchSection('statuses', {updateStats: cur.section === 'auto', tab: 1}, event);">
+  <span>Новости</span>
+</a><a id="ui_rmenu_communities" href="/search?c[section]=communities" class="ui_rmenu_item _ui_item_communities search_menu_communities" onclick="return searcher.switchSection('communities', {updateStats: cur.section === 'auto', tab: 1}, event);">
+  <span>Сообщества</span>
+</a><div id="ui_rmenu_communities_list" data-sublist-id="communities" class="_ui_rmenu_sublist _ui_rmenu_communities_list unshown">
+  <a id="ui_rmenu_search_category_1" href="/search?c[section]=communities&c[category]=1" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_1" onclick="return searchActions.selectCategory(this, 1);">
+  <span>Новости</span>
+</a><a id="ui_rmenu_search_category_2" href="/search?c[section]=communities&c[category]=2" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_2" onclick="return searchActions.selectCategory(this, 2);">
+  <span>Спорт</span>
+</a><a id="ui_rmenu_search_category_3" href="/search?c[section]=communities&c[category]=3" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_3" onclick="return searchActions.selectCategory(this, 3);">
+  <span>Музыка</span>
+</a><a id="ui_rmenu_search_category_5" href="/search?c[section]=communities&c[category]=5" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_5" onclick="return searchActions.selectCategory(this, 5);">
+  <span>Блогеры</span>
+</a><a id="ui_rmenu_search_category_9" href="/search?c[section]=communities&c[category]=9" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_9" onclick="return searchActions.selectCategory(this, 9);">
+  <span>Радио и телевидение</span>
+</a><a id="ui_rmenu_search_category_4" href="/search?c[section]=communities&c[category]=4" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_4" onclick="return searchActions.selectCategory(this, 4);">
+  <span>Развлечения</span>
+</a><a id="ui_rmenu_search_category_10" href="/search?c[section]=communities&c[category]=10" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_10" onclick="return searchActions.selectCategory(this, 10);">
+  <span>Игры и киберспорт</span>
+</a><a id="ui_rmenu_search_category_7" href="/search?c[section]=communities&c[category]=7" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_7" onclick="return searchActions.selectCategory(this, 7);">
+  <span>Наука и технологии</span>
+</a><a id="ui_rmenu_search_category_12" href="/search?c[section]=communities&c[category]=12" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_12" onclick="return searchActions.selectCategory(this, 12);">
+  <span>Мода и красота</span>
+</a><a id="ui_rmenu_search_category_8" href="/search?c[section]=communities&c[category]=8" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_8" onclick="return searchActions.selectCategory(this, 8);">
+  <span>Культура и искусство</span>
+</a><a id="ui_rmenu_search_category_15" href="/search?c[section]=communities&c[category]=15" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_15" onclick="return searchActions.selectCategory(this, 15);">
+  <span>Благотворительность</span>
+</a><a id="ui_rmenu_search_category_6" href="/search?c[section]=communities&c[category]=6" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_6" onclick="return searchActions.selectCategory(this, 6);">
+  <span>Бренды</span>
+</a><a id="ui_rmenu_search_category_11" href="/search?c[section]=communities&c[category]=11" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_search_category_11" onclick="return searchActions.selectCategory(this, 11);">
+  <span>Магазины</span>
+</a>
+</div><a id="ui_rmenu_audio" href="/search?c[section]=audio" class="ui_rmenu_item _ui_item_audio search_menu_audio" onclick="return searcher.switchSection('audio', {updateStats: cur.section === 'auto', tab: 1}, event);">
+  <span>Аудиозаписи</span>
+</a><a id="ui_rmenu_video" href="/search?c[section]=video" class="ui_rmenu_item _ui_item_video search_menu_video" onclick="return searcher.switchSection('video', {updateStats: cur.section === 'auto', tab: 1}, event);">
+  <span>Видеозаписи</span>
+</a>
+  <div class="ui_rmenu_slider _ui_rmenu_slider"></div>
+</div><form id="filter_form" name="filter_form">
+  <div id="search_filters_block" style="">
+  <div class="page_block ui_filters_block" >
+  <input type="hidden" id="q" name="c[q]" value="Дарья" /><input type="hidden" id="section" name="c[section]" value="people" /><div class="search_filter_main " onselectstart="return false">
+  Сортировка
+</div><div class="search_inner_filter" id="sort_filter">
+  <div id="cSort" class="search_control">
+    <input id="search_sort" name="c[sort]" type="text" class="dark" />
+  </div>
+</div>
+<div class="search_sep"></div><div class="search_filter_main " onselectstart="return false">
+  Регион
+</div><div class="search_inner_filter" id="region_filter">
+  <div id="cCountry" class="search_control">
+    <input id="country" name="c[country]" type="text" class="dark" />
+  </div>
+  <div id="cCity" class="search_control" style="display: none">
+    <input id="city" name="c[city]" type="text" class="dark" />
+  </div>
+</div><div id="school_header" class="clear_fix search_filter_open" onclick="searcher.toggleFilter(this, 'school_filter');" onselectstart="return false">
+  Школа<span class="arrow"></span>
+</div>
+<div class="search_inner_filter" id="school_filter" style="">
+  <div id="cSchool" class="search_control" style="">
+    <input id="school" name="c[school]" type="text" class="dark" />
+  </div>
+  <div id="cSchClass" class="search_control" style="display: none">
+    <input id="schClass" name="c[school_class]" type="text" class="dark" />
+  </div>
+  <div id="cSchYear" class="search_control" style="display: none;">
+    <input id="schYear" name="c[school_year]" type="text" class="dark" />
+  </div>
+  <div id="cSchSpec" class="search_control" style="display: none;">
+   <input id="school_spec" name="c[school_spec]" type="text" class="dark" value="" placeholder="Специализация"/>
+  </div>
+</div><div id="uni_header" class="clear_fix search_filter_open" onclick="searcher.toggleFilter(this, 'uni_filter');" onselectstart="return false">
+  Университет<span class="arrow"></span>
+</div>
+<div class="search_inner_filter" id="uni_filter" style="">
+  <div id="cUniversity" class="search_control">
+    <input id="university" name="c[university]" type="text" class="dark" />
+  </div>
+  <div id="cFaculty" class="search_control" style="display: none">
+    <input id="faculty" name="c[faculty]" type="text" class="dark" />
+  </div>
+  <div id="cChair" class="search_control" style="display: none">
+    <input id="chair" name="c[chair]" type="text" class="dark" />
+  </div>
+  <div id="cUniYear" class="search_control" style="display: none;">
+    <input id="uniYear" name="c[uni_year]" type="text" class="dark" />
+  </div>
+  <div id="cEduForm" class="search_control" style="display: none">
+    <input id="edu_form" name="c[edu_form]" type="text" class="dark" />
+  </div>
+  <div id="cEduStatus" class="search_control" style="display: none">
+    <input id="edu_status" name="c[edu_status]" type="text" class="dark" />
+  </div>
+</div>
+<div class="search_sep"></div><div class="search_filter_main " onselectstart="return false">
+  Возраст
+</div><div class="search_inner_filter" id="age_filter">
+  <div id="cAge" class="search_control clear_fix">
+    <div class="range_to">
+      <input id="ageFrom" name="c[age_from]" type="text" class="dark" value="18" />
+    </div>
+    <div class="range_sep"> &ndash; </div>
+    <div class="range_to">
+      <input id="ageTo" name="c[age_to]" type="text" class="dark" value="18" />
+    </div>
+  </div>
+</div><input type="hidden" id="c[sex]" name="c[sex]" value="" /><div class="search_filter_main sex" onselectstart="return false">
+  Пол
+</div><div class="search_inner_filter">
+  <div id="cSex" class="search_control">
+    <div class="radiobtn " onclick="radiobtn(this, 1, 'sex'); cur.onSexChanged(1);">Женский</div>
+    <div class="radiobtn " onclick="radiobtn(this, 2, 'sex'); cur.onSexChanged(2);">Мужской</div>
+    <div class="radiobtn on" onclick="radiobtn(this, 0, 'sex'); cur.onSexChanged(0);">Любой</div>
+  </div>
+</div>
+<div class="search_sep"></div><div class="search_filter_main " onselectstart="return false">
+  Семейное положение
+</div><div class="search_inner_filter" id="marital_filter">
+  <div id="cStatus" class="search_control">
+    <input id="status" name="c[status]" type="text" class="dark" />
+  </div>
+  <div class="search_checkboxes">
+    <input type="hidden" bool="yes" name="c[photo]" id="photo" value="" />
+    <input type="hidden" bool="yes" name="c[online]" id="online" value="" />
+    <div class="checkbox " onclick="searcher.checkbox(this, 'photo');">с фотографией</div>
+    <div class="checkbox " onclick="searcher.checkbox(this, 'online');">сейчас на сайте</div>
+  </div>
+</div>
+<div class="search_sep"></div><div class="clear_fix search_filter_shut" onclick="searcher.toggleFilter(this, 'personalFilter');" onselectstart="return false">
+  Жизненная позиция<span class="arrow"></span>
+</div>
+<div style="display: none" class="search_inner_filter" id="personalFilter">
+
+<div id="cInterests" class="search_control" style="display:none">
+  <input id="interests" name="c[interests]" type="text" class="dark" value="" placeholder="Интересы" />
+</div>
+
+<div id="cReligion" class="search_control">
+ <input id="religion" name="c[religion]" type="text" class="dark" />
+</div>
+<div id="cPersonalPriority" class="search_control">
+ <input id="personal_priority" name="c[personal_priority]" type="text" class="dark" />
+</div>
+<div id="cImportantInOthers" class="search_control">
+ <input id="important_in_others" name="c[people_priority]" type="text" class="dark" />
+</div>
+<div id="cSmoking" class="search_control">
+ <input id="smoking" name="c[smoking]" type="text" class="dark" />
+</div>
+<div id="cAlcohol" class="search_control">
+ <input id="alcohol" name="c[alcohol]" type="text" class="dark" />
+</div>
+
+</div><div class="clear_fix search_filter_shut" onclick="searcher.toggleFilter(this, 'companyFilter');" onselectstart="return false">
+ Работа<span class="arrow"></span>
+</div>
+<div style="display: none" class="search_inner_filter" id="companyFilter">
+<div id="cCompany" class="search_control">
+  <input id="company" name="c[company]" type="text" class="dark" value="" placeholder="Работа" />
+</div>
+<div id="cPosition" class="search_control">
+  <input id="position" name="c[position]" type="text" class="dark" value="" placeholder="Должность" />
+</div>
+</div><div class="clear_fix search_filter_shut" onclick="searcher.toggleFilter(this, 'militaryFilter');" onselectstart="return false">
+  Военная служба<span class="arrow"></span>
+</div>
+<div style="display: none" class="search_inner_filter" id="militaryFilter">
+<div id="cMilCountry" class="search_control">
+<input id="milCountry" name="c[mil_country]" type="text" class="dark" />
+</div>
+<div id="cMilUnit" class="search_control" style="display:none">
+ <input id="milUnit" name="c[mil_unit]" type="text" class="dark" />
+</div>
+<div id="cMilYearFrom" class="search_control">
+ <input id="milYearFrom" name="c[mil_year_from]" type="text" class="dark" />
+</div>
+</div><div class="clear_fix search_filter_shut" onclick="searcher.toggleFilter(this, 'extra_filter', );" onselectstart="return false">
+  Дополнительно<span class="arrow"></span>
+</div><div style="display: none;" class="search_inner_filter" id="extra_filter">
+  <div id="cHometown" class="search_control" style="display: none">
+    <input id="hometown" name="c[hometown]" type="text" class="dark" value="" placeholder="Родной город"/>
+  </div>
+  <div id="cBYear" class="search_control">
+    <input id="bYear" name="c[byear]" type="text" class="dark" />
+  </div>
+  <div id="cBMonth" class="search_control">
+    <input id="bMonth" name="c[bmonth]" type="text" class="dark" />
+  </div>
+  <div id="cBDay" class="search_control">
+    <input id="bDay" name="c[bday]" type="text" class="dark" />
+  </div>
+  <div id="cLang" class="search_control" style="display: none">
+    <input id="lang" name="c[lang]" type="text" class="dark" />
+  </div>
+  
+</div>
+</div>
+</div>
+</form>
+    </div>
+  </div>
+  <div class="wide_column_wrap">
+    <div class="wide_column" id="wide_column">
+      <div id="search_content" class="search_content page_block clear_fix">
+  <h2 class="page_block_h2">
+<div class="page_block_header clear_fix" id="search_header">
+  <div class="page_block_header_extra_left _header_extra_left"></div>
+  <div class="page_block_header_extra _header_extra"></div>
+  <div class="page_block_header_inner _header_inner">Люди<span class="page_block_header_count">332</span></div>
+</div>
+</h2>
+  <div id="search_tabs_wrap" class="unshown">
+    
+  </div>
+  <div id="search_query_wrap" class="search_query_wrap">
+    <div class="ui_search _wrap">
+  <div class="ui_search_input_block">
+    <div class="ui_search_reset" onclick="return uiSearch.reset(this, false, event);">
+      <span class="blind_label">Отмена</span>
+    </div>
+    
+    <input type="text" class="ui_search_field _field" id="search_query" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"  value="Дарья" placeholder="Начните вводить любое имя, название или слово" />
+    
+  </div>
+  <div class="ui_search_filters_pane" style="display: none;">
+    <div class="ui_search_filters"></div>
+    <div class="ui_search_filters_reset" onclick="return uiSearch.removeAllFilters(this);"></div>
+  </div>
+</div>
+  </div>
+</div>
+<div id="search_auto_rows" class="search_auto_rows page_block">
+  
+</div>
+<div id="results" class="search_results search_people_results page_block mark_top_verified">
+  <div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 167857950)">
+    <a href="/id167857950" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c841633/v841633713/45558/TvZ6G5WyLNE.jpg?ava=1" alt="Дарья Ильина" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub167857950" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 167857950, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub167857950" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 167857950, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id167857950" onclick="return nav.go(this, event);">Дарья Ильина</a></div><div class="labeled "><a mention mention_id="club9919673" onmouseover="mentionOver(this);" href="/astrcolcult" class="group_link">Астраханский Колледж Культуры и Искусств</a></div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 247011909)">
+    <a href="/d.afanasyeva666" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c844418/v844418558/3163d/JHdtYopGLQU.jpg?ava=1" alt="Дарья Афанасьева" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub247011909" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 247011909, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub247011909" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 247011909, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/d.afanasyeva666" onclick="return nav.go(this, event);">Дарья Афанасьева</a></div><div class="labeled "><a mention mention_id="club58548703" onmouseover="mentionOver(this);" href="/no_podpison" class="group_link">В подписчиках не сижу</a></div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 153420650)">
+    <a href="/d.nedvigina" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c840339/v840339621/6cf51/W-m8xNhMOmw.jpg?ava=1" alt="Дарья Недвигина" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub153420650" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 153420650, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub153420650" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 153420650, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/d.nedvigina" onclick="return nav.go(this, event);">Дарья Недвигина</a></div><div class="labeled ">Колледж сервиса и туризма при АГУ</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 166791823)">
+    <a href="/id166791823" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c845524/v845524236/77464/4LZd1RDs8nc.jpg?ava=1" alt="Дарья Мерзлякова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub166791823" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 166791823, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub166791823" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 166791823, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id166791823" onclick="return nav.go(this, event);">Дарья Мерзлякова</a></div><div class="labeled ">Колледж профессиональных технологий (АГКПТ, бывш. АИПК)</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 47126594)">
+    <a href="/nickey.pisya" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c834301/v834301163/149f9b/BWXKQMyGlhg.jpg?ava=1" alt="Дарья Долецкая" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub47126594" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 47126594, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub47126594" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 47126594, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/nickey.pisya" onclick="return nav.go(this, event);">Дарья Долецкая</a></div><div class="labeled ">АГТУ
+</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 182700085)">
+    <a href="/novokosh" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c845524/v845524582/4d1c5/mpnLLBr4RDo.jpg?ava=1" alt="Дарья Лакина" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub182700085" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 182700085, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub182700085" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 182700085, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/novokosh" onclick="return nav.go(this, event);">Дарья Лакина</a></div><div class="labeled ">Школа одарённых детей им. А. П. Гужвина (ШОД)</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 335118208)">
+    <a href="/id335118208" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c837220/v837220208/1352c/HBiN1PLmsUQ.jpg?ava=1" alt="Даша Бессмертная" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub335118208" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 335118208, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub335118208" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 335118208, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id335118208" onclick="return nav.go(this, event);">Даша Бессмертная</a></div><div class="labeled "><a mention mention_id="club106349042" onmouseover="mentionOver(this);" href="/public106349042" class="group_link">B O L L A A</a></div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 159087114)">
+    <a href="/dashulya0710" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c834202/v834202477/11fe52/8doRIBDkFyU.jpg?ava=1" alt="Даша Солдатенко" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub159087114" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 159087114, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub159087114" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 159087114, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/dashulya0710" onclick="return nav.go(this, event);">Даша Солдатенко</a></div><div class="labeled ">Волго-Каспийский морской рыбопромышленный колледж (ВКМРПК, КМУ)</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 266884980)">
+    <a href="/dashka_ka13" onclick="return nav.go(this, event);" class="search_item_img_link _online online mobile"><img class="search_item_img" src="https://pp.userapi.com/c845123/v845123734/600d3/_xqVvnFbqBs.jpg?ava=1" alt="Дарья Передёрина" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub266884980" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 266884980, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub266884980" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 266884980, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/dashka_ka13" onclick="return nav.go(this, event);">Дарья Передёрина</a></div><div class="labeled ">Автомобильно-дорожный колледж</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 226622453)">
+    <a href="/dashulya1107" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c840721/v840721102/29729/fgsFq4GpJKM.jpg?ava=1" alt="Даша Рыбачок" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub226622453" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 226622453, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub226622453" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 226622453, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/dashulya1107" onclick="return nav.go(this, event);">Даша Рыбачок</a></div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 199112508)">
+    <a href="/koshamds" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c845520/v845520874/740ae/YDWxQNacs0M.jpg?ava=1" alt="Дарья Маликова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub199112508" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 199112508, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub199112508" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 199112508, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/koshamds" onclick="return nav.go(this, event);">Дарья Маликова</a></div><div class="labeled ">АГМУ (бывш. АГМА)</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 184239025)">
+    <a href="/d.babicheva" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c824601/v824601996/15cf80/0Zrit9pt49U.jpg?ava=1" alt="Дарья Бабичева" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub184239025" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 184239025, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub184239025" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 184239025, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/d.babicheva" onclick="return nav.go(this, event);">Дарья Бабичева</a></div><div class="labeled ">Лицей №1</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 157884925)">
+    <a href="/d_yakovleva" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c621127/v621127925/c1e1/h1r2BNE8B_c.jpg?ava=1" alt="Даша Яковлева" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub157884925" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 157884925, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub157884925" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 157884925, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/d_yakovleva" onclick="return nav.go(this, event);">Даша Яковлева</a></div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 147488287)">
+    <a href="/lalka_007" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c824410/v824410829/f11c6/yuDbhyUR11Y.jpg?ava=1" alt="Дарья Василькова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub147488287" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 147488287, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub147488287" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 147488287, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/lalka_007" onclick="return nav.go(this, event);">Дарья Василькова</a></div><div class="labeled "><a mention mention_id="club16626876" onmouseover="mentionOver(this);" href="/suupernaaturaal" class="group_link">Сверхъестественное » Supernatural</a></div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 188832708)">
+    <a href="/dshishkova99" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://sun1-20.userapi.com/c834404/v834404034/15d6a5/CQKx0v4w6FA.jpg?ava=1" alt="Дарья Шишкова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub188832708" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 188832708, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub188832708" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 188832708, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/dshishkova99" onclick="return nav.go(this, event);">Дарья Шишкова</a></div><div class="labeled ">Волго-Каспийский морской рыбопромышленный колледж (ВКМРПК, КМУ)</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 474875569)">
+    <a href="/id474875569" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c847219/v847219680/69318/DGiac5rF8XU.jpg?ava=1" alt="Даша Савицкая" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub474875569" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 474875569, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub474875569" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 474875569, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id474875569" onclick="return nav.go(this, event);">Даша Савицкая</a></div><div class="labeled ">Школа №8</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 373307393)">
+    <a href="/id373307393" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c830509/v830509460/7152d/I8Hm_EtNDjQ.jpg?ava=1" alt="Дарья Агафонова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub373307393" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 373307393, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub373307393" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 373307393, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id373307393" onclick="return nav.go(this, event);">Дарья Агафонова</a></div><div class="labeled ">Школа №39</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 372370408)">
+    <a href="/id372370408" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c845121/v845121431/7fcf3/lp6wUHM0DX8.jpg?ava=1" alt="Даша Журавлёва" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub372370408" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 372370408, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub372370408" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 372370408, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id372370408" onclick="return nav.go(this, event);">Даша Журавлёва</a></div><div class="labeled "><a mention mention_id="club92809482" onmouseover="mentionOver(this);" href="/public92809482" class="group_link">ТЫ УДАЛЯЕШЬ - Я ОТПИСЫВАЮСЬ</a></div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 369798978)">
+    <a href="/dariaepi123" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c841039/v841039934/69d7a/xOZyB7QJwsQ.jpg?ava=1" alt="Даша Епифанова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub369798978" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 369798978, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub369798978" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 369798978, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/dariaepi123" onclick="return nav.go(this, event);">Даша Епифанова</a></div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 363544923)">
+    <a href="/dpugachevvaa" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c844320/v844320085/3dd41/e2OU0XRnCEY.jpg?ava=1" alt="Дарья Пугачева" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub363544923" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 363544923, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub363544923" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 363544923, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/dpugachevvaa" onclick="return nav.go(this, event);">Дарья Пугачева</a></div><div class="labeled ">18 лет</div>
+  </div>
+</div><div id="search_more_results" class="search_more_results"><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 360153123)">
+    <a href="/id360153123" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c836223/v836223123/5e4a/UCrkTNI-P4o.jpg?ava=1" alt="Дарья Донская" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub360153123" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 360153123, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub360153123" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 360153123, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id360153123" onclick="return nav.go(this, event);">Дарья Донская</a></div><div class="labeled ">МЮИ (АФ)</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 352367656)">
+    <a href="/id352367656" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c836627/v836627656/41052/c6PR61fXNpw.jpg?ava=1" alt="Дарья Сергунина-Левченко" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub352367656" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 352367656, '187fbeebbdfe5240b0', true, 'search')">Подписаться</button>
+<button id="search_unsub352367656" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 352367656, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id352367656" onclick="return nav.go(this, event);">Дарья Сергунина-Левченко</a></div><div class="labeled ">Колледж арт-фэшн индустрии (АКАФИ, бывш. ПЛ №17)</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 289124445)">
+    <a href="/id289124445" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c622822/v622822445/2108d/wtE49P0qg_8.jpg?ava=1" alt="Дарья Алексеева" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub289124445" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 289124445, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub289124445" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 289124445, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id289124445" onclick="return nav.go(this, event);">Дарья Алексеева</a></div><div class="labeled ">Школа №29</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 284585043)">
+    <a href="/id284585043" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c625219/v625219043/204bb/nbIljm839es.jpg?ava=1" alt="Даша Денисова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub284585043" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 284585043, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub284585043" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 284585043, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id284585043" onclick="return nav.go(this, event);">Даша Денисова</a></div><div class="labeled ">Школа №36</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 281216529)">
+    <a href="/id281216529" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c625419/v625419529/4810f/E99Y4zanW_M.jpg?ava=1" alt="Дарья Туманова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub281216529" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 281216529, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub281216529" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 281216529, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id281216529" onclick="return nav.go(this, event);">Дарья Туманова</a></div><div class="labeled "><a mention mention_id="club58548703" onmouseover="mentionOver(this);" href="/no_podpison" class="group_link">В подписчиках не сижу</a></div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 275424931)">
+    <a href="/id275424931" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c622829/v622829931/38464/k8vl3dijbRo.jpg?ava=1" alt="Дарья Туманова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub275424931" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 275424931, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub275424931" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 275424931, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id275424931" onclick="return nav.go(this, event);">Дарья Туманова</a></div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 270657160)">
+    <a href="/dreamedofparadise" onclick="return nav.go(this, event);" class="search_item_img_link _online online mobile"><img class="search_item_img" src="https://pp.userapi.com/c844616/v844616811/5ae0d/sl_dROWQMjg.jpg?ava=1" alt="Даша Ахинеева" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub270657160" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 270657160, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub270657160" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 270657160, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/dreamedofparadise" onclick="return nav.go(this, event);">Даша Ахинеева</a></div><div class="labeled "><a mention mention_id="club132690131" onmouseover="mentionOver(this);" href="/ahineeva" class="group_link">ahineeva photography</a></div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 262876376)">
+    <a href="/id262876376" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c625316/v625316376/892f/8gXcdi4XLfQ.jpg?ava=1" alt="Дарья Булатова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub262876376" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 262876376, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub262876376" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 262876376, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id262876376" onclick="return nav.go(this, event);">Дарья Булатова</a></div><div class="labeled ">Школа №27</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 260940567)">
+    <a href="/id260940567" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c841639/v841639780/5e85f/sgxVgJvSP9U.jpg?ava=1" alt="Дарья Яковлева" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub260940567" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 260940567, '187fbeebbdfe5240b0', true, 'search')">Подписаться</button>
+<button id="search_unsub260940567" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 260940567, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id260940567" onclick="return nav.go(this, event);">Дарья Яковлева</a></div><div class="labeled ">АГТУ
+</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 260855527)">
+    <a href="/id260855527" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c616422/v616422527/1487e/EmU83F9fMLs.jpg?ava=1" alt="Дарья Булычева" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub260855527" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 260855527, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub260855527" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 260855527, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id260855527" onclick="return nav.go(this, event);">Дарья Булычева</a></div><div class="labeled ">Гимназия №1 (бывш. Школа №25)</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 260751041)">
+    <a href="/id260751041" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c627618/v627618041/4008/4KOOFeru7_o.jpg?ava=1" alt="Даша Иноземцева" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub260751041" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 260751041, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub260751041" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 260751041, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id260751041" onclick="return nav.go(this, event);">Даша Иноземцева</a></div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 241188727)">
+    <a href="/id241188727" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c629305/v629305727/e8e8/6RMuEIfTeKE.jpg?ava=1" alt="Дарья Федоричева" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub241188727" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 241188727, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub241188727" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 241188727, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id241188727" onclick="return nav.go(this, event);">Дарья Федоричева</a></div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 240710168)">
+    <a href="/d.gorunova2014" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c606130/v606130168/5a78/JNiotyX0-Eo.jpg?ava=1" alt="Дарья Горюнова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub240710168" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 240710168, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub240710168" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 240710168, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/d.gorunova2014" onclick="return nav.go(this, event);">Дарья Горюнова</a></div><div class="labeled ">АГК
+</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 240483759)">
+    <a href="/id240483759" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c424323/v424323759/99d6/sdkwOqg875U.jpg?ava=1" alt="Дарья Юлинен" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub240483759" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 240483759, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub240483759" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 240483759, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id240483759" onclick="return nav.go(this, event);">Дарья Юлинен</a></div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 229731602)">
+    <a href="/dasha.sorokina555" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c840623/v840623694/7703f/g7j0DW6hsEI.jpg?ava=1" alt="Даша Сорокина" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub229731602" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 229731602, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub229731602" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 229731602, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/dasha.sorokina555" onclick="return nav.go(this, event);">Даша Сорокина</a></div><div class="labeled "><a mention mention_id="club86097284" onmouseover="mentionOver(this);" href="/district13multifandom" class="group_link">Мультифандом 13</a></div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 228293867)">
+    <a href="/id228293867" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c312816/v312816867/94ba/UJB067K_e_4.jpg?ava=1" alt="Дарья Яковлева" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub228293867" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 228293867, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub228293867" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 228293867, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id228293867" onclick="return nav.go(this, event);">Дарья Яковлева</a></div><div class="labeled ">Школа №23</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 227718725)">
+    <a href="/darya.kozlova2000" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c620321/v620321725/1386/m4YYUOd5OJM.jpg?ava=1" alt="Дарья Котова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub227718725" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 227718725, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub227718725" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 227718725, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/darya.kozlova2000" onclick="return nav.go(this, event);">Дарья Котова</a></div><div class="labeled ">Школа №9</div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 225018003)">
+    <a href="/id225018003" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c836624/v836624003/3e6fa/Pgsikmwf8YM.jpg?ava=1" alt="Дарья Денисенко" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub225018003" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 225018003, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub225018003" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 225018003, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/id225018003" onclick="return nav.go(this, event);">Дарья Денисенко</a></div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 215846925)">
+    <a href="/dasha_aksenteva" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c311824/v311824925/a4b3/xKI5X369qT0.jpg?ava=1" alt="Дашенька Громова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub215846925" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 215846925, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub215846925" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 215846925, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/dasha_aksenteva" onclick="return nav.go(this, event);">Дашенька Громова</a></div><div class="labeled ">18 лет</div>
+  </div>
+</div><div class="people_row search_row clear_fix">
+  <div class="img" onmouseover="uiPhotoZoom.over(this, 214469205)">
+    <a href="/dzanfirova" onclick="return nav.go(this, event);" class="search_item_img_link _online"><img class="search_item_img" src="https://pp.userapi.com/c608825/v608825205/94c8/4so2oyu1p-A.jpg?ava=1" alt="Дашка Занфирова" /></a>
+  </div>
+  <div class="controls">
+    <button id="search_sub214469205" class="flat_button button_small button_wide" onclick="searcher.subscribe(this, 214469205, '187fbeebbdfe5240b0', true, 'search')">Добавить в друзья</button>
+<button id="search_unsub214469205" class="flat_button button_small button_wide secondary" onclick="searcher.subscribe(this, 214469205, '187fbeebbdfe5240b0', false, 'search', '')" style="display: none;">Вы подписаны</button>
+  </div>
+  <div class="info">
+    <div class="labeled name"><a href="/dzanfirova" onclick="return nav.go(this, event);">Дашка Занфирова</a></div>
+  </div>
+</div></div><div id="ui_search_load_more" class="flat_button secondary ui_load_more_btn _ui_load_more_btn _ui_search_load_more " onclick="return searcher.showMore();" style="" data-type="search">
+  Показать ещё
+</div>
+</div>
+    </div>
+  </div>
+</div></div>
+  </div>
+</div></div>
+    </div>
+
+    <div id="footer_wrap" class="footer_wrap fl_r" style="width: 795px;"></div>
+    <div class="clear"></div>
+  </div>
+</div></div><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2579437;pid=14260901;js=na" style="border:0;" height="1" width="1" />
+</div></noscript></div>
+  <div class="progress" id="global_prg"></div>
+
+  <script type="text/javascript">
+    if (parent && parent != window && (browser.msie || browser.opera || browser.mozilla || browser.chrome || browser.safari || browser.iphone)) {
+      document.getElementsByTagName('body')[0].innerHTML = '';
+    } else {
+      window.domReady && domReady();
+      updateMoney(1);
+initPageLayoutUI();
+if (browser.iphone || browser.ipad || browser.ipod) {
+  setStyle(bodyNode, {webkitTextSizeAdjust: 'none'});
+}TopMenu.init();
+initTopAudioPlayer();
+if (0) {
+  hide('support_link_td', 'top_support_link');
+}
+var ts_input = ge('ts_input');
+if (ts_input) {
+  placeholderSetup(ts_input, {back: false, reload: true, phColor: '#8fadc8'});
+}
+TopSearch.init();;window.shortCurrency && shortCurrency();
+window.zNav && setTimeout(zNav.pbind({}, {queue:1}), 0);
+window.handlePageParams && handlePageParams({"id":14260901,"leftblocks":"","leftads":"<!--ads_experiment;rb:330200::45891:296:331::zCq6RnbtRtBQ5SSi5Y7NaJkASUtfTeSrnES4b3iFS2ld4*Xrsl9LfzLLwZbILFDaUf6pH6akNLmPYD1vZUnQ7gzVJRRKpGem5jB2bE1oJ*yjybYXcIgGtx2yuaa3OLQagjeSGQlC8Bpy2X\/L231iVRJQXVA*jr106Yg0CxJzqu4YtaRQUlQlRivN6n2BqVwlptE0650ftB1sye7*uFnDbZFQdsNmoCs1xSEWufxoGP6rmCKa2eXv5f2qwuui4QODdkceQDzILL5\/gRCvYnECOrCGQ94r*gmAvVkyimi2UHbO7BRDUdv9KDhKdKHeOlAV2*ZSdtTTF68\/UnySjLs7hQ--:label=<div class=\"ads_label rb\">Реклама<\/div>;vk:330000:label=<div class=\"ads_label vk\">Реклама<\/div>;-->","ads_can_show":"1","ads_showed":"","ads_section":"search","level":1,"loc":"search?c%5Bage_from%5D=18&c%5Bage_to%5D=18&c%5Bcity%5D=23&c%5Bcountry%5D=1&c%5Bper_page%5D=40&c%5Bq%5D=%D0%94%D0%B0%D1%80%D1%8C%D1%8F&c%5Bsection%5D=people","wrap_page":1,"width":960,"width_dec":165,"width_dec_footer":165,"top_home_link_class":"top_home_link fl_l ","body_class":"firefox ","counters":"0,0,0,1,0,47,0,-1,24,0,0,0,0,0,8,2020870:0,2462:0","pvbig":1,"pvdark":0});addEvent(document, 'click', onDocumentClick);
+addLangKeys({"global_apps":"Приложения","global_friends":"Друзья","global_communities":"Сообщества","head_search_results":"Результаты поиска","global_chats":"Диалоги","global_show_all_results":"Показать все результаты","global_news_search_results":"Результаты поиска в новостях","global_emoji_cat_recent":"Часто используемые","global_emoji_cat_1":"Эмоции","global_emoji_cat_2":"Животные и растения","global_emoji_cat_3":"Жесты и люди","global_emoji_cat_4":"Еда и напитки","global_emoji_cat_5":"Спорт и активности","global_emoji_cat_6":"Путешествия и транспорт","global_emoji_cat_7":"Предметы","global_emoji_cat_8":"Символы","global_emoji_cat_9":"Флаги","stories_remove_warning":"Вы действительно хотите удалить историю?<br>Отменить действие будет невозможно.","stories_remove_confirm":"Да, удалить","stories_answer_placeholder":"Ваше сообщение…","stories_answer_sent":"Сообщение отправлено","stories_blacklist_title":"Скрыты из историй","stories_settings":"Настройки","stories_add_blacklist_title":"Скрытие из историй","stories_add_blacklist_message":"Пользователь останется в друзьях, но истории не будут показываться в новостях.","stories_add_blacklist_button":"Скрыть из историй","stories_add_blacklist_message_group":"Вы останетесь подписчиком сообщества, но истории не будут показываться в новостях.","stories_error_cant_load":"Не удалось загрузить историю.","stories_try_again":"Попробовать ещё раз","stories_error_expired":"Историю можно было посмотреть<br>в течение 24 часов после публикации","stories_error_deleted":"История удалена","stories_error_private":"Автор скрыл историю","stories_mask_tooltip":"Попробовать эту маску","stories_mask_sent":"Маска отправлена на телефон","stories_followed":"Вы подписались&#33;","stories_unfollowed":"Вы отписались","stories_is_ad":"Реклама","stories_private_story":"Приватная<br>история","stories_deleted_story":"История<br>удалена","stories_bad_browser":"Истории не поддерживаются в Вашем браузере","stories_delete_all_replies_confirm":"Вы действительно хотите удалить все ответы {name} за последние сутки? <br>Отменить действие будет невозможно.","stories_hide_reply_button":"Скрыть ответ","stories_reply_hidden":"Ответ на историю скрыт.","stories_restore":"Восстановить","stories_hide_reply_continue":"Продолжить просмотр","stories_hide_all_replies":["","Скрыть все его ответы за последние сутки","Скрыть все её ответы за последние сутки"],"stories_reply_add_to_blacklist":"Занести в чёрный список","stories_hide_reply_warning":"Вы действительно хотите скрыть этот ответ?<br>Отменить действие будет невозможно.","stories_replies_more_button":["","Показать ещё %s ответившего","Показать ещё %s ответивших","Показать ещё %s ответивших"],"stories_all_replies_hidden":"Все ответы скрыты","stories_ban_confirm":"Вы действительно хотите добавить в чёрный список {name}?<br>Отменить действие будет невозможно.","stories_banned":"Пользователь в чёрном списке","stories_share":"Поделиться","stories_follow":"Подписаться","stories_unfollow":"Отписаться","stories_report":"Пожаловаться","stories_report_sent":"Жалоба отправлена"}, true);
+addLangKeys({"global_X_post_views":["","просмотр","просмотра","просмотров"],"global_like":"Нравится","global_X_shared":["","поделился","поделились","поделились"],"global_fifa_confetti_text":"Г-О-О-О-О-О-Л&#33;"});
+addTemplates({"_":"_"});uiSearch.init('search_query', { onChange:searcher.onKey,onFocus:addClass.pbind('wide_column', 'search_focused'),onBlur:removeClass.pbind('wide_column', 'search_focused'),onEnter:searcher.onEnter,fixed:true });
+window.cur = window.cur || {};
+cur['postLikesTestGroup']=-1;
+
+window.cur = window.cur || {};
+cur['fifaConfettiEnabled']=true;
+cur.lang = extend(cur.lang || {}, []);cur.uiSort = new Dropdown(ge('search_sort'), [[0,"По популярности"],[1,"По дате регистрации"]], {
+  selectedItems: '0',
+  big: true,
+  onChange: searcher.updResults
+});
+cur.uiSort.disable(0);var uiCountry, uiCity;
+var cityFilterSelData = {"countries":[[1,"<b>Россия<\/b>"],[2,"Украина"],[3,"Беларусь"],[4,"Казахстан"],[5,"Азербайджан"],[6,"Армения"],[7,"Грузия"],[8,"Израиль"],[9,"США"],[65,"Германия"],[11,"Кыргызстан"],[12,"Латвия"],[13,"Литва"],[14,"Эстония"],[15,"Молдова"],[16,"Таджикистан"],[17,"Туркменистан"],[18,"Узбекистан"],[19,"Австралия"],[20,"Австрия"],[21,"Албания"],[22,"Алжир"],[23,"Американское Самоа"],[24,"Ангилья"],[25,"Ангола"],[26,"Андорра"],[27,"Антигуа и Барбуда"],[28,"Аргентина"],[29,"Аруба"],[30,"Афганистан"],[31,"Багамы"],[32,"Бангладеш"],[33,"Барбадос"],[34,"Бахрейн"],[35,"Белиз"],[36,"Бельгия"],[37,"Бенин"],[38,"Бермуды"],[39,"Болгария"],[40,"Боливия"],[235,"Бонайре, Синт-Эстатиус и Саба"],[41,"Босния и Герцеговина"],[42,"Ботсвана"],[43,"Бразилия"],[44,"Бруней"],[45,"Буркина-Фасо"],[46,"Бурунди"],[47,"Бутан"],[48,"Вануату"],[233,"Ватикан"],[49,"Великобритания"],[50,"Венгрия"],[51,"Венесуэла"],[52,"Виргинские острова, Великобритания"],[53,"Виргинские острова, США"],[54,"Восточный Тимор"],[55,"Вьетнам"],[56,"Габон"],[57,"Гаити"],[58,"Гайана"],[59,"Гамбия"],[60,"Гана"],[61,"Гваделупа"],[62,"Гватемала"],[63,"Гвинея"],[64,"Гвинея-Бисау"],[236,"Гернси"],[66,"Гибралтар"],[67,"Гондурас"],[68,"Гонконг"],[69,"Гренада"],[70,"Гренландия"],[71,"Греция"],[72,"Гуам"],[73,"Дания"],[237,"Джерси"],[231,"Джибути"],[74,"Доминика"],[75,"Доминиканская Республика"],[76,"Египет"],[77,"Замбия"],[78,"Западная Сахара"],[79,"Зимбабве"],[80,"Индия"],[81,"Индонезия"],[82,"Иордания"],[83,"Ирак"],[84,"Иран"],[85,"Ирландия"],[86,"Исландия"],[87,"Испания"],[88,"Италия"],[89,"Йемен"],[90,"Кабо-Верде"],[91,"Камбоджа"],[92,"Камерун"],[10,"Канада"],[93,"Катар"],[94,"Кения"],[95,"Кипр"],[96,"Кирибати"],[97,"Китай"],[98,"Колумбия"],[99,"Коморы"],[100,"Конго"],[101,"Конго, демократическая республика"],[102,"Коста-Рика"],[103,"Кот-д&#39;Ивуар"],[104,"Куба"],[105,"Кувейт"],[138,"Кюрасао"],[106,"Лаос"],[107,"Лесото"],[108,"Либерия"],[109,"Ливан"],[110,"Ливия"],[111,"Лихтенштейн"],[112,"Люксембург"],[113,"Маврикий"],[114,"Мавритания"],[115,"Мадагаскар"],[116,"Макао"],[117,"Македония"],[118,"Малави"],[119,"Малайзия"],[120,"Мали"],[121,"Мальдивы"],[122,"Мальта"],[123,"Марокко"],[124,"Мартиника"],[125,"Маршалловы Острова"],[126,"Мексика"],[127,"Микронезия, федеративные штаты"],[128,"Мозамбик"],[129,"Монако"],[130,"Монголия"],[131,"Монтсеррат"],[132,"Мьянма"],[133,"Намибия"],[134,"Науру"],[135,"Непал"],[136,"Нигер"],[137,"Нигерия"],[139,"Нидерланды"],[140,"Никарагуа"],[141,"Ниуэ"],[142,"Новая Зеландия"],[143,"Новая Каледония"],[144,"Норвегия"],[145,"Объединенные Арабские Эмираты"],[146,"Оман"],[147,"Остров Мэн"],[148,"Остров Норфолк"],[149,"Острова Кайман"],[150,"Острова Кука"],[151,"Острова Теркс и Кайкос"],[152,"Пакистан"],[153,"Палау"],[154,"Палестинская автономия"],[155,"Панама"],[156,"Папуа — Новая Гвинея"],[157,"Парагвай"],[158,"Перу"],[159,"Питкерн"],[160,"Польша"],[161,"Португалия"],[162,"Пуэрто-Рико"],[163,"Реюньон"],[164,"Руанда"],[165,"Румыния"],[166,"Сальвадор"],[167,"Самоа"],[168,"Сан-Марино"],[169,"Сан-Томе и Принсипи"],[170,"Саудовская Аравия"],[171,"Свазиленд"],[172,"Святая Елена"],[173,"Северная Корея"],[174,"Северные Марианские острова"],[175,"Сейшелы"],[176,"Сенегал"],[177,"Сент-Винсент и Гренадины"],[178,"Сент-Китс и Невис"],[179,"Сент-Люсия"],[180,"Сент-Пьер и Микелон"],[181,"Сербия"],[182,"Сингапур"],[234,"Синт-Мартен"],[183,"Сирия"],[184,"Словакия"],[185,"Словения"],[186,"Соломоновы Острова"],[187,"Сомали"],[188,"Судан"],[189,"Суринам"],[190,"Сьерра-Леоне"],[191,"Таиланд"],[192,"Тайвань"],[193,"Танзания"],[194,"Того"],[195,"Токелау"],[196,"Тонга"],[197,"Тринидад и Тобаго"],[198,"Тувалу"],[199,"Тунис"],[200,"Турция"],[201,"Уганда"],[202,"Уоллис и Футуна"],[203,"Уругвай"],[204,"Фарерские острова"],[205,"Фиджи"],[206,"Филиппины"],[207,"Финляндия"],[208,"Фолклендские острова"],[209,"Франция"],[210,"Французская Гвиана"],[211,"Французская Полинезия"],[212,"Хорватия"],[213,"Центральноафриканская Республика"],[214,"Чад"],[230,"Черногория"],[215,"Чехия"],[216,"Чили"],[217,"Швейцария"],[218,"Швеция"],[219,"Шпицберген и Ян Майен"],[220,"Шри-Ланка"],[221,"Эквадор"],[222,"Экваториальная Гвинея"],[223,"Эритрея"],[224,"Эфиопия"],[226,"Южная Корея"],[227,"Южно-Африканская Республика"],[232,"Южный Судан"],[228,"Ямайка"],[229,"Япония"]],"country":[1,"Россия"],"cities":[[23,"<b>Астрахань<\/b>"],["1","<b>Москва<\/b>"],["2","<b>Санкт-Петербург<\/b>"],["10","Волгоград"],["37","Владивосток"],["42","Воронеж"],["49","Екатеринбург"],["60","Казань"],["61","Калининград"],["72","Краснодар"],["73","Красноярск"],["95","Нижний Новгород"],["99","Новосибирск"],["104","Омск"],["110","Пермь"],["119","Ростов-на-Дону"],["123","Самара"],["151","Уфа"],["158","Челябинск"]],"city":["23","Астрахань"]};
+
+selectsData.setCountries(cityFilterSelData.countries);
+selectsData.setCities(cityFilterSelData.country[0], cityFilterSelData.cities);
+
+uiCity = new CitySelect(ge('city'), ge('cCity'), {
+  show: function(el) {
+    slide_show(el);
+    if (cur.onSearchStep) cur.onSearchStep();
+  },
+  hide: function(el) {
+    slide_hide(el);
+    if (cur.onSearchStep) cur.onSearchStep();
+  },
+  city: cityFilterSelData.city,
+  country: cityFilterSelData.country[0],
+  introText: 'Введите название',
+  placeholder: 'Выбор города',
+  big: true,
+  zeroPlaceholder: true,
+  noResult: 'Городов не найдено',
+  otherCity: 'Другой город',
+  maxItemsShown: function(query_length) {
+    if (query_length > 6) {
+      return 500;
+    } else {
+      return 350;
+    }
+  },
+  onChange: function(val) {
+    if (val && hasClass('school_header', 'search_filter_shut')) {
+      searcher.toggleFilter('school_header', 'school_filter');
+      searcher.toggleFilter('uni_header', 'uni_filter');
+    }
+    searcher.updResults();
+  }
+});
+cur.uiCity = uiCity;
+
+uiCountry = new CountrySelect(ge('country'), ge('cCountry'), {
+  show: slide_show,
+  hide: slide_hide,
+  country: cityFilterSelData.country,
+  placeholder: 'Выбор страны',
+  big: true,
+  autocomplete: 1,
+  noDefaultCountry: 1,
+  full_list: '',
+  citySelect: uiCity,
+  onChange: searcher.updResults
+});
+cur.uiCountry = uiCountry;var uiSchCountry, uiSchCity, uiSchool, uiSchYear, uiSchClass;
+var schoolFilterSelData = {"country":[1,"Россия"],"city":["23","Астрахань"],"school":"","school_class":0};
+
+uiSchYear = new Dropdown(ge('schYear'), [[0,"Год выпуска"],"2025","2024","2023","2022","2021","2020","2019","2018","2017","2016","2015","2014","2013","2012","2011","2010","2009","2008","2007","2006","2005","2004","2003","2002","2001","2000","1999","1998","1997","1996","1995","1994","1993","1992","1991","1990","1989","1988","1987","1986","1985","1984","1983","1982","1981","1980","1979","1978","1977","1976","1975","1974","1973","1972","1971","1970","1969","1968","1967","1966","1965","1964","1963","1962","1961","1960","1959","1958","1957","1956","1955","1954","1953","1952","1951","1950","1949","1948","1947","1946"], {
+  big: true,
+  zeroPlaceholder: true,
+  selectedItems: '',
+  onChange: searcher.updResults
+});
+uiSchClass = new ClassSelect(ge('schClass'), ge('cSchClass'), {
+  show: slide_show,
+  hide: slide_hide,
+  big: true,
+  placeholder: 'Выбор класса',
+  zeroPlaceholder: true,
+  country: schoolFilterSelData.country[0],
+  school: schoolFilterSelData.school,
+  school_class: schoolFilterSelData.school_class,
+  onChange: searcher.updResults
+});
+uiSchool = new SchoolHintSelect(ge('school'), ge('cSchool'), {
+  show: slide_show,
+  hide: slide_hide,
+  big: true,
+  school: schoolFilterSelData.school,
+  city: schoolFilterSelData.city[0],
+  introText: 'Введите название',
+  disabledText: 'Выберите регион',
+  introCountryText: 'Выберите страну',
+  placeholder: 'Выбор школы',
+  zeroPlaceholder: true,
+  noResult: 'Ничего не найдено',
+  disableOnHide: true,
+  forceEnableCustom: -1,
+  classSelect: uiSchClass,
+  schoolYearSelect: uiUniYear,
+  onChange: function(value) {
+    if (intval(value)) {
+      slide_show('cSchYear');
+    } else {
+      slide_hide('cSchYear');
+      uiSchYear.val(0);
+    }
+   searcher.updResults();
+  }
+});
+if (cur.uiCountry) extend(cur.uiCountry.options, {
+  schoolSelect: uiSchool,
+  classSelect: uiSchClass
+});
+if (cur.uiCity) extend(cur.uiCity.options, {
+  schoolSelect: uiSchool,
+  classSelect: uiSchClass
+});
+
+placeholderInit('school_spec');
+addEvent('school_spec', 'change keydown', searcher.onInputChange);var uiUniCountry, uiUniCity, uiUniversity, uiFaculty, uiChair, uiUniYear, uiEduStatus, uiEduForm;
+var uniFilterSelData = {"country":[1,"Россия"],"city":["23","Астрахань"],"university":0,"faculties":{"university":0,"completed_faculties":1,"faculties":[]},"faculty":0,"chairs":{"faculty":0,"completed_chairs":1,"chairs":[]},"chair":0,"form":0,"status":0};
+
+selectsData.setUniversityInfo(uniFilterSelData.university, uniFilterSelData.faculties);
+selectsData.setFacultyInfo(uniFilterSelData.faculty, uniFilterSelData.chairs);
+
+uiUniYear = new Dropdown(ge('uniYear'), [[0,"Год выпуска"],"2025","2024","2023","2022","2021","2020","2019","2018","2017","2016","2015","2014","2013","2012","2011","2010","2009","2008","2007","2006","2005","2004","2003","2002","2001","2000","1999","1998","1997","1996","1995","1994","1993","1992","1991","1990","1989","1988","1987","1986","1985","1984","1983","1982","1981","1980","1979","1978","1977","1976","1975","1974","1973","1972","1971","1970","1969","1968","1967","1966","1965","1964","1963","1962","1961","1960","1959","1958","1957","1956","1955","1954","1953","1952","1951","1950","1949","1948","1947","1946"], {
+  big: true,
+  zeroPlaceholder: true,
+  selectedItems: '',
+  onChange: searcher.updResults
+});
+uiEduForm = new EducationFormSelect(ge('edu_form'), ge('cEduForm'), {
+  show: slide_show,
+  hide: slide_hide,
+  multiselect: false,
+  visible: uniFilterSelData.form,
+  zeroPlaceholder: true,
+  country: uniFilterSelData.country[0],
+  university: uniFilterSelData.university,
+  edu_form: uniFilterSelData.form,
+  placeholder: 'Форма обучения',
+  big: true,
+  onChange: searcher.updResults
+});
+uiEduStatus = new EducationStatusSelect(ge('edu_status'), ge('cEduStatus'), {
+  show: slide_show,
+  hide: slide_hide,
+  multiselect: false,
+  visible: uniFilterSelData.status,
+  zeroPlaceholder: true,
+  country: uniFilterSelData.country[0],
+  university: uniFilterSelData.university,
+  edu_status: uniFilterSelData.status,
+  placeholder: 'Выбор статуса',
+  big: true,
+  onChange: searcher.updResults
+});
+uiChair = new ChairSelect(ge('chair'), ge('cChair'), {
+  show: slide_show,
+  hide: slide_hide,
+  big: true,
+  chair: uniFilterSelData.chair,
+  faculty: uniFilterSelData.faculty,
+  placeholder: 'Выбор кафедры/направления',
+  zeroPlaceholder: true,
+  forceEnableCustom: -1,
+  onChange: searcher.updResults
+});
+uiFaculty = new FacultySelect(ge('faculty'), ge('cFaculty'), {
+  show: slide_show,
+  hide: slide_hide,
+  big: true,
+  faculty: uniFilterSelData.faculty,
+  university: uniFilterSelData.university,
+  placeholder: 'Выбор факультета',
+  zeroPlaceholder: true,
+  forceEnableCustom: -1,
+  chairSelect: uiChair,
+  onChange: searcher.updResults
+});
+uiUniversity = new UniversityHintSelect(ge('university'), ge('cUniversity'), {
+  show: slide_show,
+  hide: slide_hide,
+  big: true,
+  showMax: 30,
+  university: uniFilterSelData.university,
+  country: uniFilterSelData.country[0],
+  city: uniFilterSelData.city[0],
+  introText: 'Введите название',
+  placeholder: 'Выбор университета',
+  zeroPlaceholder: true,
+  noResult: 'Ничего не найдено',
+  // forceEnableCustom: -1,
+  disableOnHide: true,
+  facultySelect: uiFaculty,
+  eduFormSelect: uiEduForm,
+  eduStatusSelect: uiEduStatus,
+  uniYearSelect: uiUniYear,
+  onChange: function(value) {
+    if (intval(value)) {
+      slide_show('cUniYear');
+    } else {
+      slide_hide('cUniYear');
+    }
+   searcher.updResults();
+  }
+});
+if (cur.uiCountry) extend(cur.uiCountry.options, {
+  universitySelect: uiUniversity,
+  eduFormSelect: uiEduForm,
+  eduStatusSelect: uiEduStatus
+});
+if (cur.uiCity) extend(cur.uiCity.options, {
+  universitySelect: uiUniversity
+});function getAgeFromData(max) {
+  max = parseInt(max);
+  if (!max > 0) max = 80;
+  return getRangeData(14, max, 1, 'от ', 'От');
+}
+function getAgeToData(min) {
+  min = parseInt(min);
+  if (!min > 0) min = 14;
+  return getRangeData(min, 80, 1, 'до ', 'До');
+}
+
+function getRangeData(min, max, step, prefix, label) {
+ if (min > max) return false;
+ var ret = [[0, label]];
+ if (step < 0) {
+   for (var i = max; i >= min; i += step)
+     ret.push([i, prefix + i]);
+ } else if (step > 0) {
+   for (var i = min; i <= max; i += step)
+     ret.push([i, prefix + i]);
+ }
+ return ret;
+}
+
+var uiAgeFrom, uiAgeTo;
+
+uiAgeFrom = new Dropdown(ge('ageFrom'), getAgeFromData('18'), {
+  zeroPlaceholder: true,
+  big: true,
+  selectedItem: '18',
+  onChange: function(value){
+    uiAgeTo.setData(getAgeToData(value));
+   searcher.updResults();
+  }
+});
+
+uiAgeTo = new Dropdown(ge('ageTo'), getAgeToData('18'), {
+  zeroPlaceholder: true,
+  big: true,
+  selectedItem: '18',
+  onChange: function(value){
+    uiAgeFrom.setData(getAgeFromData(value));
+   searcher.updResults();
+  }
+});window.radioBtns['sex'] = {
+  els: Array.prototype.slice.apply(geByClass('radiobtn', ge('cSex'))),
+  val: 0
+}
+cur.onSexChanged = function(value) {
+  ge('c[sex]').value = value;
+  var selectedStatuses = cur.uiStatuses.val();
+  var statusesData = (value == 1) ? cur.fmStatuses : cur.mStatuses;
+  cur.uiStatuses.setData(statusesData);
+  if (selectedStatuses) {
+    cur.uiStatuses.clear();
+    var arr = selectedStatuses.split(',');
+    for (var i = 0; i < arr.length; i++) {
+      cur.uiStatuses.selectItem(arr[i]);
+    }
+  }
+  searcher.updResults();
+}
+
+var mStatuses = [
+  [0, 'Выбор статуса'],
+  [1, 'Не женат'],
+  [2, 'Встречается'],
+  [3, 'Помолвлен'],
+  [4, 'Женат'],
+  [8, 'В гражданском браке'],
+  [7, 'Влюблён'],
+  [5, 'Всё сложно'],
+  [6, 'В активном поиске']
+];
+cur.mStatuses = mStatuses;
+
+var fmStatuses = [
+  [0, 'Выбор статуса'],
+  [1, 'Не замужем'],
+  [2, 'Встречается'],
+  [3, 'Помолвлена'],
+  [4, 'Замужем'],
+  [8, 'В гражданском браке'],
+  [7, 'Влюблена'],
+  [5, 'Всё сложно'],
+  [6, 'В активном поиске']
+];
+cur.fmStatuses = fmStatuses;
+
+var uiStatuses = new Dropdown(ge('status'),
+  '' == '1' ? fmStatuses : mStatuses, {
+  zeroPlaceholder: true,
+  selectedItems: '',
+  big: true,
+  onChange: searcher.updResults
+});
+cur.uiStatuses = uiStatuses;var uiReligion, uiPersonalPriority, uiPeoplePriority, uiSmoking, uiAlcohol;
+
+var religionData = [
+  ['Иудаизм'],
+  ['Православие'],
+  ['Католицизм'],
+  ['Протестантизм'],
+  ['Ислам'],
+  ['Буддизм'],
+  ['Конфуцианство'],
+  ['Светский гуманизм'],
+  ['Пастафарианство']
+];
+each (religionData, function(k,v) { religionData[k] = [v[0], v[0]] });
+var religionVal = '';
+var lifePriorityData = [
+  [0, 'Главное в жизни'],
+  [1, 'Семья и дети'],
+  [2, 'Карьера и деньги'],
+  [3, 'Развлечения и отдых'],
+  [4, 'Наука и исследования'],
+  [5, 'Совершенствование мира'],
+  [6, 'Саморазвитие'],
+  [7, 'Красота и искусство'],
+  [8, 'Слава и влияние']
+];
+var peoplePriorityData = [
+  [0, 'Главное в людях'],
+  [1, 'Ум и креативность'],
+  [2, 'Доброта и честность'],
+  [3, 'Красота и здоровье'],
+  [4, 'Власть и богатство'],
+  [5, 'Смелость и упорство'],
+  [6, 'Юмор и жизнелюбие']
+];
+var smokingData = [
+  [0, 'Отношение к курению'],
+  [1, 'Резко негативное'],
+  [2, 'Негативное'],
+  [3, 'Компромиссное'],
+  [4, 'Нейтральное'],
+  [5, 'Положительное']
+];
+var alcoholData = [
+  [0, 'Отношение к алкоголю'],
+  [1, 'Резко негативное'],
+  [2, 'Негативное'],
+  [3, 'Компромиссное'],
+  [4, 'Нейтральное'],
+  [5, 'Положительное']
+];
+
+uiReligion = new Selector(ge('religion'), '', {
+  dropdown: false,
+  multiselect: false,
+  enableCustom: true,
+  introText: '',
+  noResult: '',
+  placeholder: 'Мировоззрение',
+  big: true,
+  onChange: searcher.updResults
+});
+uiReligion.setData(religionData);
+if (religionVal.length) {
+  uiReligion.customVal(religionVal);
+}
+uiPersonalPriority = new Dropdown(ge('personal_priority'), lifePriorityData, {
+  zeroPlaceholder: true,
+  selectedItems: '',
+  big: true,
+  onChange: searcher.updResults
+});
+uiPeoplePriority = new Dropdown(ge('important_in_others'), peoplePriorityData, {
+  zeroPlaceholder: true,
+  selectedItems: '',
+  big: true,
+  onChange: searcher.updResults
+});
+uiSmoking = new Dropdown(ge('smoking'), smokingData, {
+  zeroPlaceholder: true,
+  selectedItems: '',
+  big: true,
+  onChange: searcher.updResults
+});
+uiAlcohol = new Dropdown(ge('alcohol'), alcoholData, {
+  zeroPlaceholder: true,
+  selectedItems: '',
+  big: true,
+  onChange: searcher.updResults
+});
+
+placeholderInit('interests');
+  placeholderInit('company');
+  placeholderInit('position');
+  addEvent('company', 'blur', searcher.updResults);
+  addEvent('company', 'keydown', function(event) {
+    if (event.keyCode == KEY.ENTER) searcher.updResults(event);
+  });
+  addEvent('position', 'blur', searcher.updResults);
+  addEvent('position', 'keydown', function(event) {
+    if (event.keyCode == KEY.ENTER) searcher.updResults(event);
+  });var uiMilCountry, uiMilUnit, uiMilYearFrom, uiMilYear;
+var milFiltersel_data = {"countries":[[1,"<b>Россия<\/b>"],[2,"Украина"],[3,"Беларусь"],[4,"Казахстан"],[5,"Азербайджан"],[6,"Армения"],[7,"Грузия"],[8,"Израиль"],[9,"США"],[65,"Германия"],[11,"Кыргызстан"],[12,"Латвия"],[13,"Литва"],[14,"Эстония"],[15,"Молдова"],[16,"Таджикистан"],[17,"Туркменистан"],[18,"Узбекистан"],[19,"Австралия"],[20,"Австрия"],[21,"Албания"],[22,"Алжир"],[23,"Американское Самоа"],[24,"Ангилья"],[25,"Ангола"],[26,"Андорра"],[27,"Антигуа и Барбуда"],[28,"Аргентина"],[29,"Аруба"],[30,"Афганистан"],[31,"Багамы"],[32,"Бангладеш"],[33,"Барбадос"],[34,"Бахрейн"],[35,"Белиз"],[36,"Бельгия"],[37,"Бенин"],[38,"Бермуды"],[39,"Болгария"],[40,"Боливия"],[235,"Бонайре, Синт-Эстатиус и Саба"],[41,"Босния и Герцеговина"],[42,"Ботсвана"],[43,"Бразилия"],[44,"Бруней"],[45,"Буркина-Фасо"],[46,"Бурунди"],[47,"Бутан"],[48,"Вануату"],[233,"Ватикан"],[49,"Великобритания"],[50,"Венгрия"],[51,"Венесуэла"],[52,"Виргинские острова, Великобритания"],[53,"Виргинские острова, США"],[54,"Восточный Тимор"],[55,"Вьетнам"],[56,"Габон"],[57,"Гаити"],[58,"Гайана"],[59,"Гамбия"],[60,"Гана"],[61,"Гваделупа"],[62,"Гватемала"],[63,"Гвинея"],[64,"Гвинея-Бисау"],[236,"Гернси"],[66,"Гибралтар"],[67,"Гондурас"],[68,"Гонконг"],[69,"Гренада"],[70,"Гренландия"],[71,"Греция"],[72,"Гуам"],[73,"Дания"],[237,"Джерси"],[231,"Джибути"],[74,"Доминика"],[75,"Доминиканская Республика"],[76,"Египет"],[77,"Замбия"],[78,"Западная Сахара"],[79,"Зимбабве"],[80,"Индия"],[81,"Индонезия"],[82,"Иордания"],[83,"Ирак"],[84,"Иран"],[85,"Ирландия"],[86,"Исландия"],[87,"Испания"],[88,"Италия"],[89,"Йемен"],[90,"Кабо-Верде"],[91,"Камбоджа"],[92,"Камерун"],[10,"Канада"],[93,"Катар"],[94,"Кения"],[95,"Кипр"],[96,"Кирибати"],[97,"Китай"],[98,"Колумбия"],[99,"Коморы"],[100,"Конго"],[101,"Конго, демократическая республика"],[102,"Коста-Рика"],[103,"Кот-д&#39;Ивуар"],[104,"Куба"],[105,"Кувейт"],[138,"Кюрасао"],[106,"Лаос"],[107,"Лесото"],[108,"Либерия"],[109,"Ливан"],[110,"Ливия"],[111,"Лихтенштейн"],[112,"Люксембург"],[113,"Маврикий"],[114,"Мавритания"],[115,"Мадагаскар"],[116,"Макао"],[117,"Македония"],[118,"Малави"],[119,"Малайзия"],[120,"Мали"],[121,"Мальдивы"],[122,"Мальта"],[123,"Марокко"],[124,"Мартиника"],[125,"Маршалловы Острова"],[126,"Мексика"],[127,"Микронезия, федеративные штаты"],[128,"Мозамбик"],[129,"Монако"],[130,"Монголия"],[131,"Монтсеррат"],[132,"Мьянма"],[133,"Намибия"],[134,"Науру"],[135,"Непал"],[136,"Нигер"],[137,"Нигерия"],[139,"Нидерланды"],[140,"Никарагуа"],[141,"Ниуэ"],[142,"Новая Зеландия"],[143,"Новая Каледония"],[144,"Норвегия"],[145,"Объединенные Арабские Эмираты"],[146,"Оман"],[147,"Остров Мэн"],[148,"Остров Норфолк"],[149,"Острова Кайман"],[150,"Острова Кука"],[151,"Острова Теркс и Кайкос"],[152,"Пакистан"],[153,"Палау"],[154,"Палестинская автономия"],[155,"Панама"],[156,"Папуа — Новая Гвинея"],[157,"Парагвай"],[158,"Перу"],[159,"Питкерн"],[160,"Польша"],[161,"Португалия"],[162,"Пуэрто-Рико"],[163,"Реюньон"],[164,"Руанда"],[165,"Румыния"],[166,"Сальвадор"],[167,"Самоа"],[168,"Сан-Марино"],[169,"Сан-Томе и Принсипи"],[170,"Саудовская Аравия"],[171,"Свазиленд"],[172,"Святая Елена"],[173,"Северная Корея"],[174,"Северные Марианские острова"],[175,"Сейшелы"],[176,"Сенегал"],[177,"Сент-Винсент и Гренадины"],[178,"Сент-Китс и Невис"],[179,"Сент-Люсия"],[180,"Сент-Пьер и Микелон"],[181,"Сербия"],[182,"Сингапур"],[234,"Синт-Мартен"],[183,"Сирия"],[184,"Словакия"],[185,"Словения"],[186,"Соломоновы Острова"],[187,"Сомали"],[188,"Судан"],[189,"Суринам"],[190,"Сьерра-Леоне"],[191,"Таиланд"],[192,"Тайвань"],[193,"Танзания"],[194,"Того"],[195,"Токелау"],[196,"Тонга"],[197,"Тринидад и Тобаго"],[198,"Тувалу"],[199,"Тунис"],[200,"Турция"],[201,"Уганда"],[202,"Уоллис и Футуна"],[203,"Уругвай"],[204,"Фарерские острова"],[205,"Фиджи"],[206,"Филиппины"],[207,"Финляндия"],[208,"Фолклендские острова"],[209,"Франция"],[210,"Французская Гвиана"],[211,"Французская Полинезия"],[212,"Хорватия"],[213,"Центральноафриканская Республика"],[214,"Чад"],[230,"Черногория"],[215,"Чехия"],[216,"Чили"],[217,"Швейцария"],[218,"Швеция"],[219,"Шпицберген и Ян Майен"],[220,"Шри-Ланка"],[221,"Эквадор"],[222,"Экваториальная Гвинея"],[223,"Эритрея"],[224,"Эфиопия"],[226,"Южная Корея"],[227,"Южно-Африканская Республика"],[232,"Южный Судан"],[228,"Ямайка"],[229,"Япония"]],"country":""};
+
+selectsData.setCountries(milFiltersel_data.countries);
+
+uiMilCountry = new CountrySelect(ge('milCountry'), ge('cMilCountry'), {
+  show: slide_show,
+  hide: slide_hide,
+  big: true,
+  country: milFiltersel_data.country,
+  placeholder: 'Выбор страны',
+  zeroPlaceholder: true,
+  autocomplete: 1,
+  noDefaultCountry: 1,
+  full_list: 'Другие страны',
+  onChange: function(value) {
+    uiMilUnit.clear();
+    if (intval(value)) {
+      uiMilUnit.setURL('select_ajax.php?act=a_get_units&country=' + value);
+      slide_show(ge('cMilUnit'));
+    } else {
+      slide_hide(ge('cMilUnit'));
+    }
+   searcher.updResults();
+  }
+});
+uiMilUnit = new Selector(ge('milUnit'), 'select_ajax.php?act=a_get_units&country=' + encodeURIComponent(milFiltersel_data.country ? milFiltersel_data.country[0] : 0), {
+  big: true,
+  minHeight: 250,
+  multiselect: false,
+  dropdown: false,
+  introText: 'Введите название',
+  placeholder: 'Выбор части',
+  zeroPlaceholder: true,
+  noResult: 'Ничего не найдено',
+  selectedItems: "",
+  onChange: searcher.updResults
+});
+
+uiMilYear = new Dropdown(ge('milYearFrom'), [[0,"Год начала службы"],"2018","2017","2016","2015","2014","2013","2012","2011","2010","2009","2008","2007","2006","2005","2004","2003","2002","2001","2000","1999","1998","1997","1996","1995","1994","1993","1992","1991","1990","1989","1988","1987","1986","1985","1984","1983","1982","1981","1980","1979","1978","1977","1976","1975","1974","1973","1972","1971","1970","1969","1968","1967","1966","1965","1964","1963","1962","1961","1960","1959","1958","1957","1956","1955","1954","1953","1952","1951","1950","1949","1948","1947","1946","1945"], {
+  big: true,
+  selectedItems: '',
+  zeroPlaceholder: true,
+  onChange: searcher.updResults
+});
+
+placeholderInit('hometown');
+addEvent('hometown', 'change keydown', searcher.onInputChange);
+
+var uiBYear, uiBMonth, uiBDay, uiLangs;
+
+function getDays(month, year) {
+  var ret = [[0, 'День рождения']], days = [0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31], daysCount = 31;
+
+  if (month == '2' && year % 4 == 0) {
+    daysCount = 29;
+  } else if (month && days[month]){
+    daysCount = days[month];
+  }
+  for (var i = 1; i <= daysCount; i++) {
+    ret.push(i);
+  }
+  return ret;
+}
+
+var years = [[0, 'Год рождения']];
+for (var i = 2004; i > 1901; i--) {
+  years.push(i);
+}
+var monthes = [[0, 'Месяц рождения'], [1, 'Январь'], [2, 'Февраль'], [3, 'Март'], [4, 'Апрель'], [5, 'Май'], [6, 'Июнь'], [7, 'Июль'], [8, 'Август'], [9, 'Сентябрь'], [10, 'Октябрь'], [11, 'Ноябрь'], [12, 'Декабрь']];
+
+uiBYear = new Dropdown(ge('bYear'), years, {
+  zeroPlaceholder: true,
+  big: true,
+  height: 170,
+  selectedItem: '',
+  onChange: function(value) {
+    uiBDay.setData(getDays(uiBMonth.val(), value));
+   searcher.updResults();
+  }
+});
+uiBMonth = new Dropdown(ge('bMonth'), monthes, {
+  zeroPlaceholder: true,
+  big: true,
+  height: 170,
+  selectedItem: '',
+  onChange: function(value) {
+    uiBDay.setData(getDays(value, uiBYear.val()));
+   searcher.updResults();
+  }
+});
+uiBDay = new Dropdown(ge('bDay'), getDays('', ''), {
+  zeroPlaceholder: true,
+  big: true,
+  height: 170,
+  selectedItem: '',
+  onChange: function(value) {
+   searcher.updResults();
+  }
+});
+
+var langsData = [[0,"Выбор языка"],[-1,"Русский"],[1,"Українська"],[2,"Беларуская (тарашкевiца)"],[3,"English"],[4,"Espa&#241;ol"],[5,"Suomi"],[6,"Deutsch"],[7,"Italiano"],[8,"Български"],[9,"Hrvatski"],[10,"Magyar"],[11,"Српски"],[12,"Portugu&#234;s"],[14,"&#917;&#955;&#955;&#951;&#957;&#953;&#954;&#940;"],[15,"Polski"],[16,"Fran&#231;ais"],[17,"&#54620;&#44397;&#50612;"],[18,"&#27721;&#35821;"],[19,"Lietuvi&#371;"],[20,"&#26085;&#26412;&#35486;"],[21,"&#268;e&#353;tina"],[22,"Eesti"],[23,"Македонски"],[50,"Татарча"],[51,"Баш&#1185;ортса"],[52,"Ч&#259;вашла"],[53,"Sloven&#269;ina"],[54,"Rom&#226;n&#259;"],[55,"Norsk"],[56,"Latvie&#353;u"],[57,"Az&#601;rbaycan dili"],[58,"&#1344;&#1377;&#1397;&#1381;&#1408;&#1381;&#1398;"],[59,"Shqip"],[60,"Svenska"],[61,"Nederlands"],[62,"T&#252;rkmen"],[63,"&#4325;&#4304;&#4320;&#4311;&#4323;&#4314;&#4312;"],[64,"Dansk"],[65,"O‘zbek"],[66,"Moldoveneasc&#259;"],[67,"Буряад"],[68,"&#3616;&#3634;&#3625;&#3634;&#3652;&#3607;&#3618;"],[69,"Bahasa Indonesia"],[70,"То&#1207;ик&#1251;"],[71,"Sloven&#353;&#269;ina"],[72,"Bosanski"],[73,"Portugu&#234;s brasileiro"],[74,"&#1601;&#1575;&#1585;&#1587;&#1740;"],[75,"Ti&#7871;ng Vi&#7879;t"],[76,"&#2361;&#2367;&#2344;&#2381;&#2342;&#2368;"],[77,"&#3523;&#3538;&#3458;&#3524;&#3517;"],[78,"&#2476;&#2494;&#2434;&#2482;&#2494;"],[79,"Tagalog"],[80,"Монгол"],[81,"&#4119;&#4121;&#4140;&#4101;&#4140;"],[82,"T&#252;rk&#231;e"],[83,"&#2344;&#2375;&#2346;&#2366;&#2354;&#2368;"],[84,"&#3749;&#3762;&#3751;"],[85,"&#1575;&#1585;&#1583;&#1608;"],[86,"Bahasa Melayu"],[87,"Кыргыз тили"],[88,"&#2350;&#2352;&#2366;&#2336;&#2368;"],[89,"&#2711;&#2753;&#2716;&#2736;&#2750;&#2724;&#2752; "],[90,"&#1662;&#1606;&#1580;&#1575;&#1576;&#1740;"],[91,"Ирон"],[92,"&#2325;&#2379;&#2306;&#2325;&#2339;&#2368;"],[93,"&#6039;&#6070;&#6047;&#6070;&#6017;&#6098;&#6040;&#6082;&#6042;"],[94,"&#3221;&#3240;&#3277;&#3240;&#3233;"],[95,"Kiswahili"],[96,"&#2980;&#2990;&#3007;&#2996;&#3021;"],[97,"&#1178;аза&#1179;ша"],[98,"&#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1577;"],[99,"&#1506;&#1489;&#1512;&#1497;&#1514;"],[101,"Эрзянь кель"],[102,"Адыгэбзэ"],[103,"А&#1191;суа бызш&#1241;а"],[104,"Q&#305;r&#305;mtatarca"],[105,"Саха тыла"],[106,"Адыгабзэ"],[107,"Удмурт"],[108,"Марий йылме"],[109,"Маг&#1216;арул мац&#1216;"],[110,"ГIалгIай мотт"],[111,"Къарачай-малкъар тил"],[112,"Нохчийн мотт"],[113,"Эвэды"],[114,"Беларуская"],[115,"Kurd&#238;"],[116,"&#1662;&#1690;&#1578;&#1608;"],[117,"Агъул чIал"],[118,"Лезги чІал"],[119,"&#33274;&#28771;&#35441;"],[120,"&#4768;&#4635;&#4653;&#4763;"],[121,"Абаза Бызшва"],[128,"Алтай тил"],[130,"Asturianu"],[145,"Bhilali"],[157,"Catal&#224;"],[168,"Дарган мез"],[183,"Euskara"],[193,"G&#227;"],[194,"Gagauz dili"],[219,"&#237;slenska"],[230,"Хакас тілі"],[232,"Перем коми кыв"],[236,"Къумукъ тил"],[237,"Лакку маз"],[253,"Мокшень кяль"],[270,"Mirand&#233;s"],[279,"Ногай тили"],[298,"Русинськый"],[313,"chiShona"],[327,"Табасаран ч&#1216;ал"],[344,"Тыва дыл"],[345,"Uyghurche"],[357,"Хальмг келн"],[372,"Хантыйский"],[373,"Tol&#305;&#351;&#601; z&#305;von"],[375,"Коми кыв"],[376,"&#1329;&#1408;&#1381;&#1410;&#1396;&#1407;&#1377;&#1392;&#1377;&#1397;&#1381;&#1408;&#1383;&#1398;"],[379,"Karjalan kieli"],[386,"&#20013;&#25991; (&#32321;&#39636;)"],[388,"Нанайэ"],[391,"I&#382;oran keeli"],[410,"Kurmanc&#238;"],[423,"Quenya"],[452,"Українська (клясична)"],[453,"Ya&#611;nob&#299;&#769; ziv&#243;k"],[454,"Українська (Галицка)"],[455,"Нохчийн мотт (2)"],[456,"Livvinkarjalan kieli"],[457,"Taqbaylit"],[458,"Schwyzerd&#252;tsch"],[459,"Gutisko razda"],[460,"ne&#353;ili"],[461,"&#1254;с тили"],[555,"Esperanto"],[666,"Lingua Latina"]];
+
+uiLangs = new Dropdown(ge('lang'), langsData, {
+  selectedItems: '',
+  zeroPlaceholder: true,
+  big: true,
+  onChange: searcher.updResults
+});;checkPageBlocks();window.lang = extend(window.lang || {}, {
+  search_back_to: 'Результаты поиска',
+  head_search: 'поиск',
+  search_audio_added: 'Добавлено',
+  global_photo_full_size: 'Увеличить'
+});
+searcher.init({"section":"people","has_more":true,"offset":40,"qid":null,"sortHide":0,"q":"Дарья","summary":332});
+
+window.AudioUtils && AudioUtils.toggleAudioHQBodyClass();cur.videoMarkSpam = function(link, oid, vid, hash) {
+  var loadEl = ce('span', {className: 'loading'});
+  ajax.post('/al_video.php', {act: 'video_mark_spam', vid: vid, oid: oid, hash: hash}, {
+  onDone: function () {
+    link.innerHTML = 'Видеозапись отмечена как спам.';
+  },
+  showProgress: function () {
+    link.parentNode.replaceChild(loadEl, link);
+  },
+  hideProgress: function () {
+    if (loadEl.parentNode) {
+      loadEl.parentNode.replaceChild(link, loadEl);
+    }
+  }});
+};
+; TimeSpent && TimeSpent.setTimers && TimeSpent.setTimers(3000, 10000); TimeSpent && TimeSpent.update && TimeSpent.update(false);  ;(function () {
+    var cb = function () {Notifier.init({"queue_id":"events_queue14260901","timestamp":1897138050,"key":"xO5qthZcnkBFJWuK_3QpoeLCh4sVtWbEEF8yeqjPbARZXjU5yK_Log8SqPBuh5Tv","uid":14260901,"version":10,"debug":false,"instance_id":"NDk2NzYw","server_url":"https:\/\/queuev4.vk.com\/im901","frame_path":"https:\/\/queuev4.vk.com\/q_frame.php?7","frame_url":"im901","refresh_url":"https:\/\/vk.com\/notifier.php","mutedPeers":[],"fc":{"version":23,"state":{"clist":{"min":true,"x":0,"y":-1},"tabs":{"186524760_":{"min":false,"fx":1},"155725774_":{"min":false,"fx":true},"342240271_":{"min":false,"fx":1},"63465467_":{"min":false,"fx":1},"401438484_":{"min":false,"fx":true},"399820768_":{"min":false,"fx":1},"7110226_":{"min":false,"fx":true},"422603787_":{"min":false,"fx":true},"208787197_":{"min":false,"fx":1},"89757305_":{"min":false,"fx":true},"26137908_":{"min":false,"fx":true},"235452549_":{"min":false,"fx":1},"21400564_":{"min":false,"fx":true},"241390869_":{"min":false,"fx":1},"3600873_":{"min":false,"fx":true},"410371300_":{"min":false,"fx":1},"138812825_":{"min":false,"fx":true},"294993813_":{"min":false,"fx":true},"427752664_":{"min":false,"fx":true},"250704747_":{"min":false,"fx":true},"203868696_":{"min":false,"fx":1},"24579059_":{"min":false,"fx":true},"-24136552_":{"min":false,"fx":true},"190311096_":{"min":false,"fx":true},"26590287_":{"min":false,"fx":true},"32252402_":{"min":false,"fx":true},"339415118_":{"min":false,"fx":true},"293101951_":{"min":false,"fx":true},"39358902_":{"min":false,"fx":true},"262345434_":{"min":false,"fx":true},"189833619_":{"min":false,"fx":1},"248037914_":{"min":false,"fx":1},"132258408_":{"min":false,"fx":true},"433953053_":{"min":false,"x":0.773959,"y":-1.000000,"w":0.178453,"h":0.469388,"fx":1},"404036950_":{"min":false,"x":0.747788,"y":-1.000000,"w":0.199115,"h":0.490969,"fx":1},"239375049_":{"min":false,"fx":1},"157500654_":{"min":false,"fx":true},"187202466_":{"min":false,"fx":true},"9125201_":{"min":false,"fx":1},"455070117_":{"min":false,"fx":true},"171342372_":{"min":false,"fx":true},"466276847_":{"min":false,"fx":true},"133340933_":{"min":false,"fx":1},"284111045_":{"min":false,"fx":1},"317853082_":{"min":false,"fx":true},"5602376_":{"min":false,"fx":true},"333940752_":{"min":false,"fx":true},"10198898_":{"min":false,"fx":1},"-60971406_":{"min":false,"fx":true},"197665943_":{"min":false,"fx":true}},"version":23},"state_hash":"1529291890_13466364e448ca9965"}})}
+    if (window.vk && window.vk.loaded) cb(); else addEvent(window, 'DOMContentLoaded load', cb);
+  })();
+  if (!window.__dev) {
+    (new Image).src="https://r3.mail.ru/k?vk_id=14260901&src=desktop";
+  }
+;(function (d, w) {
+if (w.__dev) {
+  return
+}
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+    }
+  </script>
+</body>
+
+</html>
